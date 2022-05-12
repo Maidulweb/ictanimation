@@ -348,10 +348,35 @@ body {
 	min-height:460px;
 	display:block;
 }
-.highlights-home article:hover{
+.highlights-one:hover{
 	background-color:#00bcb4;
 	color:#FFF !important;
 }
+.highlights-two:hover{
+	background-color:#F73D93;
+	color:#FFF !important;
+}
+.highlights-three:hover{
+	background-color:#8FBDD3;
+	color:#FFF !important;
+}
+.highlights-four:hover{
+	background-color:#6A67CE;
+	color:#FFF !important;
+}
+.highlights-five:hover{
+	background-color:#40DFEF;
+	color:#FFF !important;
+}
+.highlights-six:hover{
+	background-color:#EB5353;
+	color:#FFF !important;
+}
+.highlights-seven:hover{
+	background-color:#68A7AD;
+	color:#FFF !important;
+}
+
 .highlights-home .bg{
 	background-image:url(../images/highlights/ITEnabledService.png);
 	background-position:bottom;
